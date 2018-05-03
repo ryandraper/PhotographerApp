@@ -1,3 +1,7 @@
+/*
+* @Author Ryan Draper - COMP 7081
+* */
+
 package example.com.photographerapp;
 
 import android.content.Intent;
