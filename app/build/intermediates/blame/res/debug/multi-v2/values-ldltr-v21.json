@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ryan/AndroidStudioProjects/PhotographerApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "outputFile": "/Users/ryandraper/StudioProjects/PhotographerApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
             "map": [
                 {
-                    "source": "/Users/ryan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/26ef1d840db4d8bcbd4a0a39f5f421c9/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "source": "/Users/ryandraper/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/96bf06cce003b1c651479aa3ce4505a0/res/values-ldltr-v21/values-ldltr-v21.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
